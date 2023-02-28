@@ -22,6 +22,11 @@ public class Recursion {
         return 0.0;   
     }
 
+    // Exercicio IV - Inversão de uma String
+    public static String inverteString(String str) { 
+        return str;
+    }
+
     public static void main(String[] args) { 
         Scanner entrada = new Scanner(System.in);
 
